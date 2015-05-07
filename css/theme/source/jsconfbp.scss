@@ -1,0 +1,58 @@
+/**
+ * Black theme for reveal.js. This is the opposite of the 'white' theme.
+ *
+ * Copyright (C) 2015 Hakim El Hattab, http://hakim.se
+ */
+
+
+// Default mixins and settings -----------------
+@import "../template/mixins";
+@import "../template/settings";
+// ---------------------------------------------
+
+
+
+.reveal h3.conf-title {
+  text-transform: none;
+
+  .dot {
+    color: $red;
+    margin: 0 .2em;
+  }
+  .bp {
+    color: $yellow;
+  }
+
+}
+
+
+
+img.speaker {
+  max-width: 20%;
+  height: auto;
+  border: .25em solid #f1e249 !important;
+  border-radius: 100%;
+  position: absolute;
+  left: 10%;
+  top: -10%;
+}
+section.speaker {
+  text-align: left;
+  padding-left: 50% !important;
+
+  h4 {
+    color: #f1e249;
+  }
+
+}
+
+
+.reveal section img.sponsor {
+  background: none;
+  box-shadow: none;
+  border: none;
+}
+
+// Theme template ------------------------------
+@import "../template/theme";
+// ---------------------------------------------
