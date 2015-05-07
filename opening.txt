@@ -1,0 +1,70 @@
+
+[slide0]
+Hi everyone, welcome to our first event together!
+Before we start, we would like to say a few opening words.
+
+[slide1]
+Last year, Gergely and Peter approached us, to create a great JS conference.
+After a few days of planing, we approached the JSConf family with the idea, of a second JSConf in Europe,
+located in Budapest, and make it more affordable in the middle-eastern European region.
+
+After a few days full of tension and anxiety of waiting, their answer came, and today we can say, that this event,
+[slide2] is based on a conference by Chris Williams, founder and curator of the first JSConf US.
+
+This was in early January 2015. [slide3]
+So everything you see here today, is the work of 4 months.  If we missed something,
+just come and tell us, lets make this event even greater.
+
+[slide4]
+So welcome everybody, on the first JSConf Budapest ever!
+
+[slide5]
+We have to say many thanks to those who made this possible.
+
+[slide6]
+We thank our two main sponsors Toptal and DoclerLabs, who approached and trusted us even as first timers.
+Imagine putting money to an event, which has yet to prove itself.
+
+[slide7]
+We thank to those companies, who sponsored their employees to come here and present their ideas. Travis CI, Mozilla,
+Spotify, Microsoft, Etsy, Twilio and Futurice was generous in covering the expenses of 7 speakers.
+
+[slide8]
+In April we started a program called Diversity Sponsorship. It was aimed to help people from underrepresented groups
+in tech, to come to this event with offering free tickets. With this program 11 people are here,
+who otherwise could not afford to attend the conference.
+
+[slide9]
+Those tickets were paid by these companies and individuals, the Hall of Fame of Diversity Sponsorship: Travis Foundation,
+npm Inc, Kitchen Budapest, and Maciej Małecki, Marek Stepien and Bartek Szopka.
+They truly just paid in money to help people, they are awesome!
+
+[slide10]
+We thank our speakers, who said yes when we approached them, or submitted their talks in our CFP.
+They are the reason, that 300 people are here today.
+
+[slide11]
+We also thank the companies behind the organizers RisingStack and Ustream, to provide financial background and
+handle the video recordings and live stream right now.
+
+[slide 12]
+And finally and probably most importantly, we thank You. This event would not be possible without everyone in
+this room right now. This is a community driven conference, this is your conference!
+
+We just ask you to help this experience be the awesome for everyone, we have a code of conduct,
+just be nice to each other.
+
+[slide 13]
+If you have any questions, need assistance, have to tell us something, we’re here to help you.
+You can find anyone in these nice bright yellow shirts, you can turn to them, and they’ll help.
+
+[slide 14]
+On Twitter we’re watching this hashtag, or you can send us direct messages if necessary.
+During the talks you can ask your questions using this hashtag, and they will be answered in the Q&A session after the talks.
+
+[slide15]
+As you guessed, we’re not the best speakers to handle the whole conference,
+so without further delay, we present you the MC of this years event:
+
+[slide16]
+Karolina Szczur from &yet
